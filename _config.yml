@@ -1,9 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
+title: About me 
+email: public@jacob.zone
+description: About me
+baseurl: "/About-me"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Jacob J. Khan" # Set default author name
+      categories: "Me"
       layout: "post"
       comments: true
   -
